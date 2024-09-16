@@ -1,5 +1,5 @@
 # PythonExperiments
-This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, Foundations of Data Science at<br> Mississippi State University.
+This repository contains the initial code I created when learning to use GitHub as part of DSCI 8133, *Foundations of Data Science* at<br> Mississippi State University.
 ****
 ## Plan
 Future plans for this repository include adding a sample data file and a [Jupyter](https://jupyter.org/) notebook that will enteract with the file.
@@ -13,6 +13,5 @@ My data science competencies include:
  * Python Programming
  * Data Wrangling
 
-In order to test the inclusion of a photograph, I've included a photo of Murphy watching TV that I took with my iPhone:
-
-<img src="PicPup.jpg" width="900" height="500">
+In order to test the inclusion of a photograph, I've included a photo of Murphy watching TV that I took with my iPhone:<br>
+<img src="PicPup.jpg" alt="MurphyPic" width="900" height="500">
